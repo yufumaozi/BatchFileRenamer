@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple "stacked files" mark: three offset cards, representing batch processing. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillAlpha="0.32"
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,30 H64 V68 H26 Z" />
+    <path
+        android:fillAlpha="0.58"
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38 H70 V76 H32 Z" />
+    <path
+        android:fillAlpha="1.0"
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,46 H76 V84 H38 Z" />
+    <path
+        android:fillColor="#4D6BFE"
+        android:pathData="M45,55 H69 V59 H45 Z" />
+    <path
+        android:fillColor="#4D6BFE"
+        android:pathData="M45,63 H69 V67 H45 Z" />
+    <path
+        android:fillColor="#4D6BFE"
+        android:pathData="M45,71 H60 V75 H45 Z" />
+</vector>
